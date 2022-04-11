@@ -1,0 +1,12 @@
+<begin_topic> 
+:id: 1 
+:subject: sub1
+:from: auth1
+:body: bod1
+<end> 
+<begin_topic> 
+:id: 2 
+:subject: sub2
+:from: auth2
+:body: bod2
+<end> 
